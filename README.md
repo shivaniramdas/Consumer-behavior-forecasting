@@ -11,7 +11,7 @@ Expedia has provided three datasets that are split based on time :
   2. test.csv - the test dataset contains only the booking information from the year 2015.
   3. destinations.csv - consists of features extracted from hotel reviews text.
   
-Although Kaggle provided training and test dataset separately, we decided to work with training dataset only. The reason for this is the size of the training dataset. With 24 variables, 37 million records and 4GB in size, it is large enough to split this dataset into training and validation sets according to the problem statement and still obtain effective results.
+Although Kaggle provided training and test dataset separately, we decided to work with training dataset only. The reason for this is the size of the training dataset. With 24 variables, 37 million records and 4GB in size, it is large enough to split this dataset into training and validation sets according to the problem statement and still obtain effective results.You can find out more about this data set here: https://www.kaggle.com/c/expedia-hotel-recommendations/data 
 
 ## Solution Highlights
 
